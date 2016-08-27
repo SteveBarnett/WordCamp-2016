@@ -9,9 +9,12 @@
     * minify
     * concat
     * write less
+* Server
+    * caching
+    * gzip
 * plugins
     * ones that can help: cache
     * use less
-    * look at before and after 
+    * look at before and after
 * speed
 * cost
