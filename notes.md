@@ -12,6 +12,7 @@
 * Server
     * caching
     * gzip
+    * HTTP2 (!)
 * plugins
     * ones that can help: cache
     * use less
