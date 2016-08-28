@@ -72,8 +72,6 @@ data is not cheap.
 ## 100Mb for R29
 ## R0.29 per MB
 
-^ Not so bad?
-
 ---
 
 ## httparchive.org
@@ -91,7 +89,18 @@ How many sites?
 
 ---
 
-# :scream:
+# ¯\\\_(ツ)\_/¯
+
+---
+
+## Cashier<br>R5,000 / month
+## R165 a day
+
+^ R0.75 per page
+
+---
+
+# :scream: :scream: :scream:
 
 ---
 
