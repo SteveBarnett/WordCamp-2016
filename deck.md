@@ -14,6 +14,10 @@ Purple background
 ---
 
 # Front-end Performance
+## **#perfmatters**
+
+^ speed is one thing
+a consequence of good FED perf
 
 ---
 
@@ -44,27 +48,29 @@ Report back: Call out one or two
 
 ## :zap: talk:  5m
 
+^ local concerns for local people
+
 ---
 
 # South African
 # context
 
+^ two big things
+
 ---
 
-# Data is expensive
+# **1.** Data is expensive
 
 ![](img/full-nelson.jpg)
 
-^ most SA consumers on pre-paid
+^ many SA consumers on pre-paid.
 data is not cheap.
 
 
 ---
 
-## Data is expensive
-
-# 100Mb for R29
-# R0.29 per MB
+## 100Mb for R29
+## R0.29 per MB
 
 ^ Not so bad?
 
@@ -78,9 +84,7 @@ data is not cheap.
 
 ---
 
-## Data is expensive
-
-# R0.75 per page
+# R0.75<br>per page
 
 ^ How many pages per site?
 How many sites?
@@ -91,7 +95,7 @@ How many sites?
 
 ---
 
-# Phones are older, slower
+# **2.** Phones are older, slower
 
 ![](img/phones.jpg)
 
@@ -104,11 +108,11 @@ but cheap, low-power, smartphones
 ## RAM
 ## Feature support
 
-^ What is this CSS3of which you speak?
+^ What is this CSS3 of which you speak?
 
 ---
 
-### Wall walk: 10m
+### **Wall walk: 10m**
 
 ## Write at least one thing on each poster
 
@@ -121,11 +125,9 @@ but cheap, low-power, smartphones
 
 ---
 
-# How to measure?
+## How to measure<br>Front-end performance?
 
 ---
-
-### How to measure?
 
 ## PageSpeed Insights
 ## WebPageTest
@@ -140,19 +142,19 @@ but cheap, low-power, smartphones
 
 ---
 
-### Benchmark: 5m
+### **Benchmark: 5m**
 
 ## Run the tool
 ## Write down your score
 
 ---
 
-# Code!
-# 20m
+# **Code!**
+# **20m**
 
 ---
 
-### Pair share: 2m
+### **Pair share: 2m**
 
 ## Find someone new
 ## Tell them 1 thing<br>you've done
@@ -162,12 +164,12 @@ to improve FED performance
 
 ---
 
-# Code!
-# 20m
+# **Code!**
+# **20m**
 
 ---
 
-### Measure again
+### **Measure again**
 
 ## Run the tool
 ## Write down your score
@@ -175,18 +177,18 @@ to improve FED performance
 ---
 
 ## **^**:five: :clap: :thumbsup:
-## Get a sticker for each category you improved in!
+## Get a sticker!
 
 ---
 
-### Hey buddy
+### **Hey buddy: 5m**
 
 ## Choose a SMART goal
 ## Swap cards with a buddy
 
 ---
 
-### Facilitator Feedback: 5m
+### **Facilitator Feedback: 5m**
 
 ## 1 thing you liked
 ## 1 thing we could change
