@@ -65,12 +65,15 @@ Report back: Call out one or two
 
 ^ many SA consumers on pre-paid.
 data is not cheap.
-
+throw some numbers around to paint picture
 
 ---
 
+## Vodacom pre-paid
 ## 100Mb for R29
-## R0.29 per MB
+## **R0.29 per MB**
+
+^ Vodacom, pre-paid
 
 ---
 
@@ -78,25 +81,36 @@ data is not cheap.
 
 # Average page size: 2.5MB
 
-^ httparchive.org
+^ who's page is smaller?
+who's page is bigger?
 
 ---
 
-# R0.75<br>per page
+# Nearly R1<br>per page
+
+---
+
+# **¯\\\_(ツ)\_/¯**
 
 ^ How many pages per site?
 How many sites?
 
 ---
 
-# ¯\\\_(ツ)\_/¯
-
----
-
 ## Cashier<br>R5,000 / month
 ## R165 a day
 
-^ R0.75 per page
+^ No so bad?
+What about our users?
+Stats SA Survey 2015
+
+---
+
+## 10 pages a day
+## 6% of daily income
+
+^ Assumes average size page
+What about carousel / slider with 10 unoptimised images?
 
 ---
 
@@ -113,11 +127,22 @@ but cheap, low-power, smartphones
 
 ---
 
-## CPU speed
-## RAM
-## Feature support
+# CPU speed
+
+^ TODO: add numbers, explain
+
+---
+
+# RAM
+
+^ TODO: add numbers, explain
+
+---
+
+# Feature support
 
 ^ What is this CSS3 of which you speak?
+TODO: explain a bit
 
 ---
 
