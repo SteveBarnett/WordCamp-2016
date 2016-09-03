@@ -6,7 +6,6 @@ Purple background
 
 ### **2 fast, 2 furious?**
 
-## How fast is fast enough?
 ## How fast do you want your site to be?
 
 ^ Once all seated, shout outs
@@ -32,17 +31,14 @@ What do
 
 ---
 
-### **Table talk: 5m**
+### **Table talk**
 
 ## How do fast sites make people feel?
 
-^ Focus on positive
+^ 5m
+Focus on positive
 Your users, you, your boss
 Report back: Call out one or two
-
----
-
-![](img/thumbs-up.gif)
 
 ---
 
@@ -52,8 +48,7 @@ Report back: Call out one or two
 
 ---
 
-
-### **Wall walk: 10m**
+### **Wall walk**
 
 ## Write at least one thing on each poster
 
@@ -62,7 +57,7 @@ Report back: Call out one or two
 
 ---
 
-# Wall walk summary
+# **Wall walk** summary
 
 ---
 
@@ -83,30 +78,35 @@ Report back: Call out one or two
 
 ---
 
-### **Benchmark: 5m**
+### **Benchmark**
 
 ## Run the tool
 ## Write down your score
 
+^ 5m
+
 ---
 
 # **Code!**
-# **20m**
+
+^ **20m**
 
 ---
 
-### **Pair share: 2m**
+### **Pair share**
 
 ## Find someone new
 ## Tell them 1 thing<br>you've done
 
-^ other side of the room
+^ 2m
+other side of the room
 to improve FED performance
 
 ---
 
 # **Code!**
-# **20m**
+
+^ **20m**
 
 ---
 
@@ -117,22 +117,30 @@ to improve FED performance
 
 ---
 
+![](img/thumbs-up.gif)
+
+---
+
 ## **^**:five: :clap: :thumbsup:
 ## Get a sticker!
 
 ---
 
-### **Hey buddy: 5m**
+### **Hey buddy**
 
 ## Choose a SMART goal
 ## Swap cards with a buddy
 
+^ 5m
+
 ---
 
-### **Facilitator Feedback: 5m**
+### **Facilitator Feedback**
 
 ## 1 thing you liked
 ## 1 thing we could change
+
+^ 5m
 
 ---
 
