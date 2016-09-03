@@ -8,6 +8,8 @@ Purple background
 
 ## How fast do you want your site to be?
 
+![](img/fast.jpg)
+
 ^ Once all seated, shout outs
 
 ---
@@ -40,6 +42,8 @@ Focus on positive
 Your users, you, your boss
 Report back: Call out one or two
 
+![](img/discussion.jpg)
+
 ---
 
 ## :zap: talk:  5m
@@ -52,6 +56,8 @@ Report back: Call out one or two
 
 ## Write at least one thing on each poster
 
+![](img/posters.jpg)
+
 ^ HTML, CSS, JS, Server, WordPress, Other
 10m: that's only 2m per thing!
 
@@ -63,18 +69,29 @@ Report back: Call out one or two
 
 ## How to measure<br>Front-end performance?
 
+![](img/speedcurve.jpg)
+
 ---
 
 ## PageSpeed Insights
 ## WebPageTest
 
+![](img/tools.jpg)
+
 ---
 
 ### **Today's goal**
+## **Make it more gooder**
+
+![](img/chart-up.jpg)
+
+^ cheesy stock photo
+
+-
 
 ## Pick one (PSI or WPT)
 ## Pick a metric
-## **Make it more gooder**
+
 
 ---
 
@@ -83,11 +100,15 @@ Report back: Call out one or two
 ## Run the tool
 ## Write down your score
 
+![](img/stopwatch.jpg)
+
 ^ 5m
 
 ---
 
 # **Code!**
+
+![](img/fed-code-1.jpg)
 
 ^ **20m**
 
@@ -108,12 +129,16 @@ to improve FED performance
 
 ^ **20m**
 
+![](img/fed-code-2.png)
+
 ---
 
-### **Measure again**
+### **Measure**
 
 ## Run the tool
 ## Write down your score
+
+![](img/stopwatch.jpg)
 
 ---
 
@@ -131,6 +156,8 @@ to improve FED performance
 ## Choose a SMART goal
 ## Swap cards with a buddy
 
+![](img/buddies.png)
+
 ^ 5m
 
 ---
@@ -139,6 +166,8 @@ to improve FED performance
 
 ## 1 thing you liked
 ## 1 thing we could change
+
+![](img/feedback.jpg)
 
 ^ 5m
 
