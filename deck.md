@@ -4,6 +4,12 @@ Fira Theme
 Purple background
 -->
 
+# Front-end Performance
+
+^ up while we wait for everyone to arrive
+
+---
+
 ### **2 fast, 2 furious?**
 
 ## How fast do you want your site to be?
@@ -83,7 +89,7 @@ Report back: Call out one or two
 
 ^ we'll use these tools today
 mostly focus on PSI
-not because OMG Google, but because good advice
+not because OMG Google :100:, but because good advice
 if **fancy**, do WPT
 
 ---
@@ -102,7 +108,7 @@ PSI score up (other stuff down)
 ### **Benchmark**
 
 ## Run PSI
-## Write down your score
+## Note your score
 
 ![](img/stopwatch.jpg)
 
@@ -110,8 +116,12 @@ PSI score up (other stuff down)
 
 ---
 
-# Put a :red_circle:
-# up on the wall
+## Put a :red_circle:
+## on the wall
+## for your before score
+
+^ Your PSI score
+We'll come back to this later
 
 ---
 
@@ -145,7 +155,7 @@ to improve FED performance
 ### **Measure**
 
 ## Run PSI
-## Write down your score
+## Note your score
 
 ![](img/stopwatch.jpg)
 
@@ -154,19 +164,18 @@ who's site is more gooder than earlier today?
 
 ---
 
-# Put a :star:
-# up on the wall
+## Put a :star:
+## on the wall
+## for your after score
 
-^ review the change
+^ talk through the change
 
 ---
+
+## :thumbsup:
+## Get a sticker!
 
 ![](img/thumbs-up.gif)
-
----
-
-## **^**:five: :clap: :thumbsup:
-## Get a sticker!
 
 ^ Steve walk around with stickers
 
@@ -174,13 +183,15 @@ who's site is more gooder than earlier today?
 
 ## **Hey buddy**
 
-![](img/buddies.png)
+![fit](img/buddies.png)
 
 ^ 5m
+keep on keepin' on
+today was just the start
 
 ---
 
-## Choose a SMART goal
+## Choose a **SMART** goal
 ## Write it on an index card
 
 ^ specific, measurable, attainable, realistic, time-bound
@@ -189,8 +200,8 @@ who's site is more gooder than earlier today?
 
 ---
 
-## Write your name and email on the back
-## Swap cards with a buddy
+## Write your **name** and **email** on the back
+## **Swap cards** with a buddy
 
 ![](img/card-swap.png)
 
@@ -207,9 +218,9 @@ who's site is more gooder than earlier today?
 
 ---
 
-### **Facilitator spam**
+### **Front-end Performance:<br>Facilitator spam**
 
-### steve@naga.co.za
 ### danielle.lisa.eriksen@gmail.com
+### steve@naga.co.za
 
 ![](img/dani.jpg) ![](img/steve.jpg)
