@@ -110,3 +110,9 @@ but cheap, low-power, smartphones
 
 ^ What is this CSS3 of which you speak?
 TODO: explain a bit
+
+---
+
+# We are<br>**special**
+
+![](img/south-african-flag.png)
