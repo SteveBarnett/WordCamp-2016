@@ -22,7 +22,7 @@ a consequence of good FED perf
 
 ---
 
-# Big Faces
+# Big<br>Faces
 
 ![](img/dani.jpg) ![](img/steve.jpg)
 
@@ -72,6 +72,8 @@ Report back: Call out one or two
 
 ![](img/speedcurve.jpg)
 
+^ ask audience
+
 ---
 
 ## PageSpeed Insights
@@ -79,20 +81,19 @@ Report back: Call out one or two
 
 ![](img/tools.jpg)
 
+^ we'll use these tools today
+mostly focus on PSI
+if **fancy**, do WPT
+
 ---
 
 ### **Today's goal**
-## **Make it more gooder**
+## Make it more gooder
 
 ![](img/chart-up.jpg)
 
 ^ cheesy stock photo
-
--
-
-## Pick one (PSI or WPT)
-## Pick a metric
-
+PSI score up (other stuff down)
 
 ---
 
@@ -141,6 +142,9 @@ to improve FED performance
 
 ![](img/stopwatch.jpg)
 
+^ 5m
+who's site is more gooder?
+
 ---
 
 ![](img/thumbs-up.gif)
@@ -150,16 +154,31 @@ to improve FED performance
 ## **^**:five: :clap: :thumbsup:
 ## Get a sticker!
 
+^ Steve walk around with stickers
+
 ---
 
-### **Hey buddy**
-
-## Choose a SMART goal
-## Swap cards with a buddy
+## **Hey buddy**
 
 ![](img/buddies.png)
 
 ^ 5m
+
+---
+
+## Choose a SMART goal
+## Write in on an index card
+
+^ specific, measurable, attainable, realistic, time-bound
+
+![](img/card.jpg)
+
+---
+
+## Write your name and email on the back
+## Swap cards with a buddy
+
+![](img/card-swap.png)
 
 ---
 
