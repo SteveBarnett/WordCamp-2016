@@ -76,19 +76,21 @@ Report back: Call out one or two
 
 ---
 
-## PageSpeed Insights
-## WebPageTest
+## **PageSpeed Insights**
+## (also WebPageTest if you're feeling fancy)
 
 ![](img/tools.jpg)
 
 ^ we'll use these tools today
 mostly focus on PSI
+not because OMG Google, but because good advice
 if **fancy**, do WPT
 
 ---
 
 ### **Today's goal**
 ## Make it more gooder
+### (improve your score)
 
 ![](img/chart-up.jpg)
 
@@ -99,12 +101,17 @@ PSI score up (other stuff down)
 
 ### **Benchmark**
 
-## Run the tool
+## Run PSI
 ## Write down your score
 
 ![](img/stopwatch.jpg)
 
 ^ 5m
+
+---
+
+# Put a :red_circle:
+# up on the wall
 
 ---
 
@@ -137,13 +144,20 @@ to improve FED performance
 
 ### **Measure**
 
-## Run the tool
+## Run PSI
 ## Write down your score
 
 ![](img/stopwatch.jpg)
 
 ^ 5m
-who's site is more gooder?
+who's site is more gooder than earlier today?
+
+---
+
+# Put a :star:
+# up on the wall
+
+^ review the change
 
 ---
 
@@ -167,7 +181,7 @@ who's site is more gooder?
 ---
 
 ## Choose a SMART goal
-## Write in on an index card
+## Write it on an index card
 
 ^ specific, measurable, attainable, realistic, time-bound
 
@@ -193,7 +207,7 @@ who's site is more gooder?
 
 ---
 
-### Facilitator spam
+### **Facilitator spam**
 
 ### steve@naga.co.za
 ### danielle.lisa.eriksen@gmail.com
