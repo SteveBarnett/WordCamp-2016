@@ -6,20 +6,23 @@ Just one hour!
     * how to measure.
         * WPT, PSI
     * examples of good and bad
-    * what are WordPress-specific things
+    * what are WordPress-specific things <-- plugins? or wp specific problems?
 * fix yo stuff / make more perfy
 * how to make good perf sustainable
 
 ---
 
 * Benchmark ([PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), [WebPageTest](https://www.webpagetest.org/) at the start of the workshop
-* Focus on one or two things that will really help increase performance
-   * concatenating files and image optimization? Concat because it can be tricky and potentially the most useful once peeps know about it and how to do it. Images because it's fairly easy and peeps can easily slip that into their FED workflow once they realise how much of an impact it can make.
+* Focus on four possible things for improvement:
+    * concat
+    * minify
+    * image optimization
+    * caching
 * Benchmark again at the end
 
 ---
 
-## The 4Cs
+## The 4Cs <-- that's more than 4...
 
 Connections, Concepts, Concrete Practice, Conclusions.
 
