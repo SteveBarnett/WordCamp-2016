@@ -9,7 +9,6 @@
     * HTML
     * CSS
     * JS
-    * Server
     * WordPress
     * Other
 * BenchPress chart (before :red_circle: and after :star:)
