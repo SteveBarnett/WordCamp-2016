@@ -65,7 +65,7 @@ Report back: Call out one or two
 
 ![](img/posters.jpg)
 
-^ HTML, CSS, JS, Server, WordPress, Other
+^ HTML, CSS, JS, WordPress, Other
 10m: that's only 2m per thing!
 
 ---
@@ -88,9 +88,12 @@ Report back: Call out one or two
 ![](img/tools.jpg)
 
 ^ we'll use these tools today
-mostly focus on PSI
+mostly focus on PSI. who knows?
 not because OMG Google :100:, but because good advice
-if **fancy**, do WPT
+
+---
+
+![](img/psi-example.jpg)
 
 ---
 
