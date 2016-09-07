@@ -10,21 +10,11 @@ Purple background
 
 ---
 
-### **2 fast, 2 furious?**
-
-## How fast do you want your site to be?
-
-![](img/fast.jpg)
-
-^ Once all seated, shout outs
-
----
-
 # Front-end Performance
 ## **#perfmatters**
 
-^ speed is one thing
-a consequence of good FED perf
+^ help start (or continue) your PerfFED journey
+Only one hour, so TIGHT SHIP
 
 ---
 
@@ -49,28 +39,71 @@ Focus on positive
 Your users, you, your boss
 Report back: Call out one or two
 
-![](img/discussion.jpg)
+![](img/fast.jpg)
 
 ---
 
-## :zap: talk:  5m
+## **South African context**
 
-^ local concerns for local people
+# 1. Data
+# 2. Devices
+
+^ reality / OMG check
+two big things
+
+---
+
+## **1. Data**
+# R1.5 per page
+
+![](img/r1.jpg)
+
+^ Vodacom pre-paid - 15Mb for R9 - R0.60 per MB
+httparchive.org - Average page size: 2.5MB
+"worst case"? yes. that's our job!
+
+---
+
+## Cashier R5,000 / month
+## 10 pages a day
+## **9% of daily income**
+
+![](img/bongani.jpg)
+
+^ Stats SA Survey 2015
+What about carousel / slider with 5 huge images?
+
+---
+
+# :scream: :scream: :scream:
+
+---
+
+## **2. Devices**
+# Phones are<br>older, slower
+
+![](img/phones.jpg)
+
+^ featurephones on the way out, yes
+but cheap, low-power, smartphones
+Lower CPU, RAM. Struggle with lots of JS.
 
 ---
 
 ### **Wall walk**
 
-## Write at least one thing on each poster
+## Write at least one thing about FED performance on each poster
 
 ![](img/posters.jpg)
 
 ^ HTML, CSS, JS, WordPress, Other
-10m: that's only 2m per thing!
+5m: that's only 1m per thing!
 
 ---
 
 # **Wall walk** summary
+
+^ 10m
 
 ---
 
@@ -88,12 +121,16 @@ Report back: Call out one or two
 ![](img/tools.jpg)
 
 ^ we'll use these tools today
-mostly focus on PSI. who knows?
+mostly focus on PSI. who knows it?
 not because OMG Google :100:, but because good advice
+use as checklist
 
 ---
 
-![](img/psi-example.jpg)
+![fit](img/psi-example.jpg)
+
+^ Live Demo!
+Sort of
 
 ---
 
@@ -128,30 +165,11 @@ We'll come back to this later
 
 ---
 
-# **Code!**
+# **PerfFED!**
 
 ![](img/fed-code-1.jpg)
 
-^ **20m**
-
----
-
-### **Pair share**
-
-## Find someone new
-## Tell them 1 thing<br>you've done
-
-^ 2m
-other side of the room
-to improve FED performance
-
----
-
-# **Code!**
-
-^ **20m**
-
-![](img/fed-code-2.png)
+^ **10m**
 
 ---
 
@@ -162,8 +180,7 @@ to improve FED performance
 
 ![](img/stopwatch.jpg)
 
-^ 5m
-who's site is more gooder than earlier today?
+^ 5m, inc wall sticker
 
 ---
 
@@ -171,7 +188,7 @@ who's site is more gooder than earlier today?
 ## on the wall
 ## for your after score
 
-^ talk through the change
+^ who's site is more gooder than earlier today?
 
 ---
 
@@ -180,7 +197,7 @@ who's site is more gooder than earlier today?
 
 ![](img/thumbs-up.gif)
 
-^ Steve walk around with stickers
+^ One sheet of stickers for each table
 
 ---
 
@@ -207,17 +224,6 @@ today was just the start
 ## **Swap cards** with a buddy
 
 ![](img/card-swap.png)
-
----
-
-### **Facilitator Feedback**
-
-## 1 thing you liked
-## 1 thing we could change
-
-![](img/feedback.jpg)
-
-^ 5m
 
 ---
 
