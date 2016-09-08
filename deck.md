@@ -5,15 +5,10 @@ Purple background
 -->
 
 # Front-end Performance
-
-^ up while we wait for everyone to arrive
-
----
-
-# Front-end Performance
 ## **#perfmatters**
 
 ^ help start (or continue) your PerfFED journey
+Can be hard to find time during work
 Only one hour, so TIGHT SHIP
 
 ---
@@ -32,7 +27,7 @@ What do
 ### **Table talk**
 
 ## Introduce yourself
-## How do fast sites make people feel?
+## How do performant sites make people feel?
 
 ^ 5m
 Focus on positive
@@ -50,6 +45,7 @@ Report back: Call out one or two
 
 ^ reality / OMG check
 two big things
+What about Data?
 
 ---
 
@@ -77,6 +73,8 @@ What about carousel / slider with 5 huge images?
 
 # :scream: :scream: :scream:
 
+^ What about Devices?
+
 ---
 
 ## **2. Devices**
@@ -103,7 +101,7 @@ Lower CPU, RAM. Struggle with lots of JS.
 
 # **Wall walk** summary
 
-^ 10m
+^ 5m
 
 ---
 
@@ -153,6 +151,7 @@ PSI score up (other stuff down)
 ![](img/stopwatch.jpg)
 
 ^ 5m
+Or run WPT (on 3g, mobile?), pick a metric
 
 ---
 
@@ -166,10 +165,21 @@ We'll come back to this later
 ---
 
 # **PerfFED!**
+## Pick **one thing**<br>to focus on
 
 ![](img/fed-code-1.jpg)
 
-^ **10m**
+^ 10m?
+
+---
+
+## **Resources**
+
+
+## PageSpeed docs
+## naga.co.za/wc2016
+
+^ short URL
 
 ---
 
