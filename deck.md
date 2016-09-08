@@ -7,7 +7,8 @@ Purple background
 # Front-end Performance
 ## **#perfmatters**
 
-^ help start (or continue) your PerfFED journey
+^ award for least WP-y workshop?
+help start (or continue) your PerfFED journey
 Can be hard to find time during work
 Only one hour, so TIGHT SHIP
 
@@ -21,6 +22,7 @@ Only one hour, so TIGHT SHIP
 Name
 Where work
 What do
+We are going to make you walk
 
 ---
 
@@ -48,6 +50,7 @@ Put up wall A4s now?
 ^ reality / OMG check
 two big things
 What about Data?
+thumbsucks, worst case
 
 ---
 
@@ -165,7 +168,7 @@ Or run WPT (on 3g, mobile?), pick a metric
 
 ^ Your PSI score
 We'll come back to this later
-Table at the back
+At the bar
 
 ---
 
@@ -232,6 +235,8 @@ today was just the start
 ## Write it on an index card
 
 ^ specific, measurable, attainable, realistic, time-bound
+one small thing, with big impact
+if you did CSS, now do JS
 
 ![](img/card.jpg)
 
