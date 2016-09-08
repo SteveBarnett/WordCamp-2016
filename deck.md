@@ -29,12 +29,14 @@ What do
 ## Introduce yourself
 ## How do performant sites make people feel?
 
+![](img/fast.jpg)
+
 ^ 5m
 Focus on positive
 Your users, you, your boss
 Report back: Call out one or two
+Put up wall A4s now?
 
-![](img/fast.jpg)
 
 ---
 
@@ -90,7 +92,8 @@ Lower CPU, RAM. Struggle with lots of JS.
 
 ### **Wall walk**
 
-## Write at least one thing about FED performance on each poster
+## Grab a pen and stickies
+## At least one thing about FED performance for each
 
 ![](img/posters.jpg)
 
@@ -110,6 +113,7 @@ Lower CPU, RAM. Struggle with lots of JS.
 ![](img/speedcurve.jpg)
 
 ^ ask audience
+millyun of ways
 
 ---
 
@@ -156,11 +160,12 @@ Or run WPT (on 3g, mobile?), pick a metric
 ---
 
 ## Put a :red_circle:
-## on the wall
-## for your before score
+## on the BenchPress chart
+## for your **before** score
 
 ^ Your PSI score
 We'll come back to this later
+Table at the back
 
 ---
 
@@ -170,6 +175,8 @@ We'll come back to this later
 ![](img/fed-code-1.jpg)
 
 ^ 10m?
+small thing with big impact
+CSS? Caching?
 
 ---
 
@@ -195,8 +202,8 @@ We'll come back to this later
 ---
 
 ## Put a :star:
-## on the wall
-## for your after score
+## on the BenchPress chart
+## for your **after** score
 
 ^ who's site is more gooder than earlier today?
 
