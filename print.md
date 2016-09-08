@@ -1,55 +1,82 @@
-# **HTML**
+# *HTML*
 
 ---
 
 # DOM size
+
+---
+
 # images
 
 ---
 
-# **CSS**
+# *CSS*
 
 ---
 
 # minify
+
+---
+
 # contact
+
+---
+
 # write less
 
 ---
 
-# **JavaScript**
+# Eliminate
+# render-blocking
+
+---
+
+# *JavaScript*
 
 ---
 
 # minify
-# contact
+
+---
+
+# concat
+
+---
+
 # write less
 
 ---
 
-# **Server**
+# Eliminate render-blocking
+
+---
+
+# *WordPress*
+
+---
+
+# Themes: before and after
+
+---
+
+# Plugins: before and after
+
+---
+
+# Plugins: use fewer
+
+---
+
+# *Other*
 
 ---
 
 # caching
+
+---
+
 # gzip
+
+---
+
 # HTTP2 (!)
-
----
-
-# **Themes**
-
----
-
-# before and after
-# use fast ones
-
----
-
-# **Plugins**
-
----
-
-# before and after
-# use good ones
-# use less
