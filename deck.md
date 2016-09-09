@@ -7,7 +7,7 @@ Purple background
 # Front-end Performance
 ## **#perfmatters**
 
-^ award for least WP-y workshop?
+^ different: not code along. you do all the work. not wordpress-y?
 help start (or continue) your PerfFED journey
 Can be hard to find time during work
 Only one hour, so TIGHT SHIP
