@@ -35,6 +35,7 @@
 - [How to add critical CSS to a WordPress site]( https://aarontgrogg.com/blog/2016/01/13/how-to-add-critical-css-to-a-wordpress-site/)
 - - [Inlining critical CSS for better web performance](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
 - [Above the fold optimization Plugin](https://wordpress.org/plugins/above-the-fold-optimization/)
+- [Scripts to Footer](https://github.com/cferdinandi/gmt-scripts-to-footer)
 
 # Other
 
